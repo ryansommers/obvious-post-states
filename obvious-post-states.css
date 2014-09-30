@@ -1,0 +1,41 @@
+.post-state {
+	background: #999;
+	border-radius: 2px;
+	color: #fff;
+	font-size: 12px;
+	font-weight: 400;
+	margin: -1px 8px 0 0;
+	padding: 1px 5px;
+	vertical-align: top;
+}
+.admin-color-fresh .post-state {
+	background: #333333;
+}
+.admin-color-light .post-state {
+	background: #888888;
+}
+.admin-color-blue .post-state {
+	background: #4796b3;
+}
+.admin-color-coffee .post-state {
+	background: #59524c;
+}
+.admin-color-ectoplasm .post-state {
+	background: #523f6d;
+}
+.admin-color-midnight .post-state {
+	background: #363b3f;
+}
+.admin-color-ocean .post-state {
+	background: #627c83;
+}
+.admin-color-sunrise .post-state {
+	background: #cf4944;
+}
+td.post-title strong {
+	color: rgba(255,255,255,0);
+	display: inline;
+}
+.row-actions {
+	padding: 4px 0 0 0;
+}
