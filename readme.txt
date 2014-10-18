@@ -1,5 +1,6 @@
 === Obvious Post States ===
 Contributors: ryansommers
+Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LD5WYPVG8AJW4
 Tags: post state, drafts, pending, sticky, password protected, ryan sommers.
 Requires at least: 4.0
 Tested up to: 4.0
