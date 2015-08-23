@@ -5,7 +5,7 @@ Plugin Name: Obvious Post States
 Plugin URI: http://sevenbold.com/wordpress/
 Description: Make your WordPress post state text (draft, pending, sticky, etc) stand out.
 Author: Ryan Sommers
-Version: 1.0.2
+Version: 1.0.3
 Author URI: http://ryansommers.com
 */
 
